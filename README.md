@@ -19,16 +19,17 @@ The Hall Booking App aims to simplify the process of booking halls for various e
 
 1. Clone this repository.
 
-git clone 
-
+git clone https://github.com/harikrishnan1697/Hall_Booking_8.git
 
 2. Install dependencies:
 
  
 cd hall-booking-api
-npm install
+npm init
+npm i -g nodemon
+npm start
 
 
-## Poastman API Documentation
-
+## Postman API Documentation
+https://documenter.getpostman.com/view/30449091/2sA2rAxgd8
 

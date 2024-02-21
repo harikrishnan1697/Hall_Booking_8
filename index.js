@@ -7,7 +7,7 @@ app.use(express.json());
 
 app.use('/',appRouter)
 
-app.listen(8001,()=>{
-    console.log('server is listening to port : 8001')
+app.listen(8000,()=>{
+    console.log('server is listening to port : 8000')
 })
 
