@@ -26,7 +26,7 @@ git clone https://github.com/harikrishnan1697/Hall_Booking_8.git
  
 cd hall-booking-api
 npm init
-npm i -g nodemon
+
 npm start
 
 
